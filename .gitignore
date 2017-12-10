@@ -6,3 +6,5 @@ RemoteSystemsTempFiles/
 .niogit/
 *.zip
 *.jar
+/docs_mine/
+/.project
