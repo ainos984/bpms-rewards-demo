@@ -29,12 +29,11 @@
 <property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="readonly" value="false"/>
-<property name="inputBinding" value="employee_in/award"/>
 <property name="outputBinding" value="employee/award"/>
 <property name="defaultSubform" value="Award.form"/>
 <property name="fieldClass" value="java.lang.Object"/>
 </field>
-<dataHolder inputId="employee_in" name="#E9E371" type="dataModelerEntry" outId="employee" value="com.capgemini.demo.cefla.rewards.Employee" id="employee"/>
+<dataHolder inputId="" name="#E9E371" type="dataModelerEntry" outId="employee" value="com.capgemini.demo.cefla.rewards.Employee" id="employee"/>
 <dataHolder inputId="" name="#A7E690" type="basicType" outId="name" value="java.lang.String" id="name"/>
 <dataHolder inputId="" name="#FF54A7" type="basicType" outId="outcome" value="java.lang.Boolean" id="outcome"/>
 </form>
