@@ -218,7 +218,7 @@
 </style>
 <div id="container">
 	<div id="header">
-		New Process Instance: /rewards/src/main/resources/com/redhat/jboss/hr/rewards.rewards-approval
+		New Process Instance: /rewards/src/main/resources/com/capgemini/demo/cefla/rewards.rewards-approval
 	</div>
 	<div id="content">
 	    <input type="hidden" name="processId" value="${process.id}"/>
